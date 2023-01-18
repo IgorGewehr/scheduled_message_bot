@@ -6,7 +6,7 @@ import datetime
 import emoji
 import asyncio
 
-bot = telebot.TeleBot("5929920992:AAHhBJ9cfBQXR723vNb0ya0UGgMqBj-nnJQ")
+bot = telebot.TeleBot("YOUR_TOKEN")
 
 def generate_message():
     percent1 = random.randint(92, 99)
